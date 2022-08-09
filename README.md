@@ -6,4 +6,4 @@ This repository contains programming assignment of the course. Projects are:
 2) <strong>Bayesian Classifier</strong>, Guassian Naive Base and Naive Base classifier are implemented from the scratch.
 3) <strong>Logistic Regression</strong>, This classifier is famous LR classifier and similar to previous projects is implemented from the scratch.
 
-I scored full marked (20) in this course.
+I scored full marks in all projects.
